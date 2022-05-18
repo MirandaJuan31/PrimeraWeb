@@ -1,0 +1,291 @@
+/*********************************************** Pagina1****************************************************************/
+*{
+    /* margin: 500%;
+    background-color: aqua; */
+    margin: 0;
+    padding: 0;}
+#Titulo1{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+   /* border-top: 1px solid white;
+    border-bottom: 1px solid white;*/
+    font-size: 30px;
+    background-color:#16b9d6;
+    color:#000000;
+    justify-content: center;
+}
+
+#Parrafo1{
+    color:black;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-weight: bold;
+    }
+    
+    #Imagen1 {
+        margin-bottom: 20px;
+        border-radius: 50px;
+        width: 300px;
+        height: 260px;
+    }
+    
+    #Imagen2 {
+        margin-bottom: 20px;
+        margin-left: 50px;
+        border-radius: 50px;
+        width: 300px;
+        height:260px;
+    }
+#Titulo2{
+    font-size: 26px;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Parrafo2{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 40px;
+
+}
+
+#Footer{
+    font-size: 18px;
+    margin-top: 10px;
+}
+#Siguiente{
+    font-size: 24px;
+}
+/************************************************Pagina 2 *************************************************************/
+#Titulo3{
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#Parrafo3{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 9px;
+border-bottom: 2px;
+border-top: 2px;
+;
+background-color: rgb(255, 255, 255);
+}
+
+#Titulo4{
+    margin-left: 10px;
+    margin-top: 15px;
+font-size: 22px;
+
+}
+#Parrafo4{
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 25px;
+}
+
+#A1{
+    font-size: 20px;
+   margin-left: 400px; 
+  
+}
+
+#A2{
+    font-size: 20px;
+    margin-left: 300PX;
+}
+/********************************************************Pagina 3 *****************************************************/
+
+#Titulo5{
+font-size: 35px;
+    align-items: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-bottom: 3px solid white;
+    border-top: 3px solid white;
+    border-radius: 50px;
+}
+#Parrafo5{
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-bottom: 3px solid white;
+    border-top: 3px solid white;
+    border-radius: 30px;
+}
+
+#Imagen4{
+margin-top: 12px;
+margin-bottom: 25px;
+    height: 350px;
+    width: 400px;
+}
+
+#Titulo6{
+    font-size: 30px;
+border-top: 5px solid blue;
+
+
+}
+
+#Parrafo6{
+    font-size: 20px;
+    border-bottom: 5px solid blue;
+}
+
+#Titulo-Parrafo{
+    margin-left: 20px;
+    margin-right: 20px;
+    border-right: 10px;
+    border-left: 5px solid blue;
+    border-right: 5px solid blue;
+    margin-bottom: 25px;
+}
+
+#Titulo7{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+#Parrafo7{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+#Imagen5{
+    margin-top: 12px;
+margin-bottom: 25px;
+    height: 300px;
+    width: 800px;
+    border-radius: 15px;
+}
+
+#Titulo8{
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+#Parrafo8{
+    font-size: 22px;
+
+}
+
+#Imagen6{
+    height: 300px;
+    width: 500px;
+}
+#Imagen7{
+    height:300px ;
+    width: 500px;
+}
+#Imagenes{
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+#A3{
+    
+    font-size: 25PX;
+    font-family: cursive;
+
+}
+
+#A4{
+    margin-left: 400px;
+    margin-right: 40px;
+   color: white;
+    font-size: 25PX;
+    font-family: cursive;
+    border-bottom: 3px solid blue;
+    border-top: 3px solid blue;
+    border-radius: 10px;
+    background-color: blue;
+}
+
+#Botones{
+    margin-bottom: 45px;
+}
+
+/****************************************************************** Pagina 4***************************************************************************/
+
+#Inicio{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    margin-left: 30px;
+}
+    
+
+    #Titulo9{
+        margin-top: 30px;
+        
+    }
+
+#S1{
+    font-size: 20px;
+    margin-top: 30PX;
+    margin-bottom: 10PX;
+    
+}
+
+#S2{
+    font-size: 20px;
+    margin-bottom: 12PX;
+}
+
+#S3{
+    font-size: 20px;
+    margin-bottom: 12PX;
+}
+
+#S4{
+    font-size: 20px;
+    margin-bottom: 12PX;
+}
+
+#S5{
+    font-size: 20px;
+    margin-bottom: 14PX;
+}
+
+#S6{
+    font-size: 20px;
+    margin-bottom: 200PX;
+}
+#Pagina-Ant{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    margin-left: 30px;
+}
+/*.form1 {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.form1 input{
+    height: 40px;
+    padding-left: 10px;
+    border: none;
+    border-bottom: 1px solid red;
+    ;
+}
+*/
